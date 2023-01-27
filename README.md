@@ -33,7 +33,7 @@ Public Health Data? CDC?
 Undocumented Farming Communities!
 
 ### Preliminary Methodology / Flow Chart
-![FlowChart] (
+![FlowChart] (FlowChart-GIS.png)
 
 ### Concluding
 
