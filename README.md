@@ -36,4 +36,4 @@ Undocumented Farming Communities!
 ![FlowChart](FlowChart-GIS.png)
 
 ### Concluding
-
+The Salton Sea is a great case study to analyze due to multiple factors that created the severity of the situation, continue to feed environmental degradation, and opportunites to manage and restore ecological and public health. 
