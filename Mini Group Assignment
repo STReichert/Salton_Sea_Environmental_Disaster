@@ -1,11 +1,13 @@
-# Salton Sea Environmental Disaster and [Proposal](https://github.com/STReichert/Salton_Sea_Environmental_Disaster)
-## Roles: 
+Salton Sea Environmental Disaster and [Proposal](https://github.com/STReichert/Salton_Sea_Environmental_Disaster)
+
+
+Roles: 
 Tiffany Rivera-- Analyzing Occupation/Industry in Riverside/Imperial County
 Maggie Seay-- Analyzing Air Quality Data/ Public Health Data
 Seth Reichert-- 
 Miriam 
 
-Status update: Team has been meeting weekly and helping each other with coding. We have created a list of all census tracts in our study area, to extract and analyze only the areas of interest to us.  
+Status update: Team has been meeting weekly and helping each other with coding and general questions. We have created a list of all census tracts in our study area, to extract only the data corresponding to our areas of interest.  
 
 Data update: The US Census, County Business Parterns provides data on all the occupation/industry types per county. We will use this data set to approximate how many outdoor workers there are and how they make be disportionately affected by the air quality in our study area. (https://www.census.gov/data/developers/data-sets/cbp-nonemp-zbp/cbp-api.html)
 
