@@ -5,7 +5,7 @@ Roles:
 Tiffany Rivera-- Analyzing Occupation/Industry in Riverside/Imperial County
 Maggie Seay-- Analyzing Air Quality Data/ Public Health Data
 Seth Reichert-- Analyzing Land Cover Data
-Miriam 
+Miriam Bar-Zemer - Analyzing race/ethnic composition and poverty rates 
 
 Status update: Team has been meeting weekly and helping each other with coding and general questions. We have created a list of all census tracts in our study area, to extract only the data corresponding to our areas of interest.  
 
