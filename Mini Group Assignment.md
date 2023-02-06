@@ -17,5 +17,7 @@ Data update:
 - The US Census, County Business Parterns provides data on all the occupation/industry types per county. We will use this data set to approximate how many outdoor workers there are and how they make be disportionately affected by the air quality in our study area. (https://www.census.gov/data/developers/data-sets/cbp-nonemp-zbp/cbp-api.html)
 - The National Land Cover Database provides several years of data on land cover in the region, including agricultural land. https://www.mrlc.gov/viewer/
 - Airnow: provides historic and current air quality readings at various reading stations, including several near the Salton Sea: https://www.airnow.gov/
+- CalEnviroScreen - provides great shape file!
 
-Minor Concerns: Finding data sets that include all our years of interest for each of our variables. For example, CalEnvironScreen has air quality & public health data but it is not clear whether the data is available for previous years.
+Minor Concerns: Finding data sets that include all our years of interest for each of our variables. For example, CalEnvironScreen has air quality & public health data but I cant seem to get this data over time.
+
