@@ -1,6 +1,13 @@
 # Salton Sea Environmental Disaster
 
 The final research project for UCLA UP 221, created by Maggie Seay, Tiffany Rivera, Miriam Bar-Zemer, and Seth Reichert
+---------------------------------------------------
+## Final
+In our final report we explore the recent history of water level trends, energy sector development, population trends, and public health in the area surrounding the Salton sea. This report can be found in the form of a [story map](https://storymaps.arcgis.com/stories/edc7b985b07041a4897f1fe8a6a6a4dd).
+
+The clean code and notebooks used to create these visuals can be found in the [final folder](final/) of our repository.
+
+Note: Some data, such as the NLCD land cover data is to large to track with GitHub and as such has been used locally, these files can be made available upon request.
 
 ---------------------------------------------------
 ## Project Proposal
